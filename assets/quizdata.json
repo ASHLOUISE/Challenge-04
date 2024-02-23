@@ -1,0 +1,32 @@
+[
+    {
+      "question": "Commonly used data types DO NOT include:",
+      "options": [
+        "Strings",
+        "Booleans",
+        "Alerts",
+        "Numbers"
+      ],
+      "answer": "Booleans"
+    },
+    {
+      "question": "The condition in an if/else statement is enclosed with ___________.",
+      "options": ["Quotes", "Curly brackets", "Parenthesis", "Square brackets"],
+      "answer": "Curly brackets"
+    },
+    {
+      "question": "Arrays in JavaScript can be used to store ____________.",
+      "options": ["Numbers and strings", "Other arrays", "Booleans", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "String values must be enclosed within __________ when being assigned to variables.",
+      "options": ["Commas", "Curly brackets", "Quotes", "Parenthesis"],
+      "answer": "Quotes"
+    },
+    {
+      "question": "A very helpful tool used during development and debugging for printing content to the debugger is:",
+      "options": ["JavaScript", "Terminal/bash", "For loops", "Console.log"],
+      "answer": "JavaScript"
+    }
+  ]
