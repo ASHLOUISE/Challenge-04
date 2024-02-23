@@ -81,7 +81,6 @@ const endQuiz = () => {
 };
 
 
-
 const showHighscores = () => {
   document.getElementById("start-page").style.display = "none";
   document.getElementById("highscore-page").style.display = "block";
@@ -131,7 +130,7 @@ for (let i = 0; i < 4; i++) {
       quizData[currentQuestion].options[i] === quizData[currentQuestion].answer
     ) {
       score++;
-      document.getElementById("score").innerText = score;
+      document.getElementById("score").innerText = score; // Update the score display
       selectedOption.className = "option-btn correct";
       document.getElementById("message").innerText = "Correct Answer!";
     } else {
