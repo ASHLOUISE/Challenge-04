@@ -24,6 +24,6 @@ This is a simple code quiz challenge application built using HTML, CSS, and Java
 ![image](https://github.com/ASHLOUISE/Challenge-04/assets/152327760/b1dea1b4-3578-40e6-99f1-04dd607ebc2c)
 
 ## Links
-Github deployment: https://github.com/ASHLOUISE/Challenge-04.git
+Github deployment: https://ashlouise.github.io/Challenge-04/
 Github: https://github.com/ASHLOUISE
-file:///C:/Users/paluz/OneDrive/Desktop/Challenge-04/index.html
+
